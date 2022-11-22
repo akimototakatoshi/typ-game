@@ -10,17 +10,11 @@ const count = document.getElementById('count');
 
 //テキストを表示
 const textLists = [
-    'HelloWorld',
-    'ReactHooks',
-    'Redux',
-    'laraveladmin',
-    'javascript',
-    'github',
-    'component',
-    'api',
-    'python',
-    'history',
-    'background'
+    'HelloWorld','ReactHooks','Redux',
+    'laraveladmin','javascript','github',
+    'component','api','python','history',
+    'background','Ruby','php',
+    'golang','mysql','nuxt'
 ];
  //テキストをランダムに表示
  const createText = () => {
